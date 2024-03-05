@@ -1,6 +1,6 @@
 # Phyken Network by Metaquity
 
-Phyken Network is a Layer 1 app-chain and DeFi protocol on Polkadot, building an RWA asset fractionalization protocol, particularly emphasizing #GRWA: renewable energies and solar power on the blockchain.
+Phyken Network is an  app-chain and DeFi protocol, building an RWA asset fractionalization protocol, particularly emphasizing GRWA: renewable energies and solar power on the blockchain.
 
 Phyken Network solutions for RWA complexities:
 
