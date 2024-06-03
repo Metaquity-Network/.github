@@ -15,14 +15,4 @@ Phyken Network solutions for RWA complexities:
 
 We are building on substrate and will bid for parachain. 
 
-## Milestone:
-
-🏆 Substrate Builders Program Milestone 1 cleared
-
-🏆 Launched Phyken network solo testnet: [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.metaquity.xyz#/explorer)
-
-
-![milestone-1](https://github.com/Metaquity-Network/.github/assets/22363352/fd45ed5d-0b24-4287-8069-eda1b1d32345)
-
-
 follow us here: https://link3.to/phyken
